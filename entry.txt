@@ -1,0 +1,1 @@
+LGTM. The tests pass, the diff is clean, and I have made my peace with whatever this does at 3 a.m.
